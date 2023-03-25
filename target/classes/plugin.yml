@@ -1,0 +1,8 @@
+name: Devroom
+version: '1.0-SNAPSHOT'
+main: it.flaxdevelopment.devroom.Devroom
+api-version: 1.19
+commands:
+  particles:
+
+  stopparticles:

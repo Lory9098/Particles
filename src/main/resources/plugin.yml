@@ -1,0 +1,8 @@
+name: Devroom
+version: '${project.version}'
+main: it.flaxdevelopment.devroom.Devroom
+api-version: 1.19
+commands:
+  particles:
+
+  stopparticles:

@@ -1,0 +1,19 @@
+database:
+  host: "localhost"
+  database: "devroom"
+  user: "root"
+  password: ""
+
+particles:
+  1:
+    name: "Particle in slot 1!"
+    item: "WATER_BUCKET"
+    particle: "DRIP_WATER"
+    permission: "particle.water"
+  32:
+    name: "Particle in slot 32!"
+    item: "LAVA_BUCKET"
+    particle: "DRIP_LAVA"
+    permission: "particle.lava"
+
+quantity: 50
